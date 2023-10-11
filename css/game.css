@@ -1,0 +1,45 @@
+.map_word_num {
+    font-size: 22px;
+}
+
+.map_white {
+    background: #86cfda;
+    height: 80px;
+    width: 80px;
+}
+
+.map_black {
+    background: #0c5460;
+    height: 80px;
+    width: 80px;
+}
+
+.map_highlight {
+    background: #34ce57;
+    height: 80px;
+    width: 80px;
+}
+
+.map_have_enemy {
+    background: #8d000f;
+}
+
+.player_w {
+    background-image: url("/img/checker_w.png");
+    background-size: cover;
+}
+
+.player_b {
+    background-image:  url("/img/checker_b.png");
+    background-size: cover;
+}
+
+.king_w {
+    background-image: url("/img/king.png"), url("/img/checker_w.png");
+    background-size: cover;
+}
+
+.king_b {
+    background-image: url("/img/king.png"), url("/img/checker_b.png");
+    background-size: cover;
+}
